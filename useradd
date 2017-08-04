@@ -1,1 +1,0 @@
-useradd bhupen; echo "redhat" |passwd --stdin bhupen
